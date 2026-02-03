@@ -102,17 +102,17 @@ It would be great if there finally was a way to create a single native applicati
 
 (Co-)created and published four iOS/Mac OS X applications so far: 
 
-1. **[15min](http://itunes.apple.com/lt/app/id322573191?mt=8), the news reader for a local news outlet.** Features news articles, article comments, ability to post comments, weather forecast, photo gallery, daily voting poll, citizen self-reporting tool. Based on XML-RPC-like communication with the web server. Strong MVC separation, most of the code is backed by UI+logic unit tests, mature 3rd party libraries used.
-2. **[Anglonas iPhone](http://itunes.apple.com/us/app/anglonas-english-lithuanian/id381153256?mt=8), the (only) English-Lithuanian dictionary for iOS.** Features a simple, minimalist UI; word definition bookmarks; some improvements to suit the iPad screen size too. Uses custom build of OpenSSL; Google Toolkit for Mac (GTM), FMDB library. Strong MVC separation so that the same code could be used in the Mac OS X version of the dictionary; backed by UI + logic unit tests.
-3. **[Anglonas Mac OS X](http://itunes.apple.com/lt/app/anglonas/id411857989?mt=12), as in "we did this for the iPhone, now do this for the Mac".** Features simple yet "smart" UI (fixes common typos, switches keyboard layout when appropriate, comfortable shortcuts, etc.); integration into the Mac OS X via Services; superfast and not unnecessary-feature-bloated. Shares code with the iOS dictionary; OEM (non-Mac App Store) build has automatic updates, crash reports, antipiracy measures, downwards-compatible with 10.4-10.5.
-4. [OpenDict + Mac OS X](opendict-macos), an OS X port of OpenDict, the open source dictionary (written in Python + wxPython).
+1. **15min, the news reader for a local news outlet.** Features news articles, article comments, ability to post comments, weather forecast, photo gallery, daily voting poll, citizen self-reporting tool. Based on XML-RPC-like communication with the web server. Strong MVC separation, most of the code is backed by UI+logic unit tests, mature 3rd party libraries used.
+2. **Anglonas iPhone, the (only) English-Lithuanian dictionary for iOS.** Features a simple, minimalist UI; word definition bookmarks; some improvements to suit the iPad screen size too. Uses custom build of OpenSSL; Google Toolkit for Mac (GTM), FMDB library. Strong MVC separation so that the same code could be used in the Mac OS X version of the dictionary; backed by UI + logic unit tests.
+3. **Anglonas Mac OS X, as in "we did this for the iPhone, now do this for the Mac".** Features simple yet "smart" UI (fixes common typos, switches keyboard layout when appropriate, comfortable shortcuts, etc.); integration into the Mac OS X via Services; superfast and not unnecessary-feature-bloated. Shares code with the iOS dictionary; OEM (non-Mac App Store) build has automatic updates, crash reports, antipiracy measures, downwards-compatible with 10.4-10.5.
+4. OpenDict + Mac OS X, an OS X port of OpenDict, the open source dictionary (written in Python + wxPython).
 
 #### Other
 
 Been doing this and that to have fun and pay the rent:
 
 * Public transport schedule websites for various cities (Vilnius, Lithuania, Riga, Latvia, Tallinn, Estonia, others) featuring a schedule timetable data and a trip planner.
-* Stops Vilnius (also http://www.stops.mobi/vilnius/), a J2ME public transport schedule viewer for Vilnius (Lithuania) that works offline (contains the schedule data itself). Challenged myself of how much a ~200 MB schedule database could be squeezed, got down to ~700 KB (~100 KB when zipped), "invented" a indexed binary file format for storing the data :-)
+* Stops Vilnius (also https://www.stops.mobi/vilnius/), a J2ME public transport schedule viewer for Vilnius (Lithuania) that works offline (contains the schedule data itself). Challenged myself of how much a ~200 MB schedule database could be squeezed, got down to ~700 KB (~100 KB when zipped), "invented" a indexed binary file format for storing the data :-)
 * Three20 Cookbook, a wiki for a rather under-documented Three20 library. Official way of submitting documentation is still a bit sluggish (the official process being "write this in Markdown and make a git pull request"), so I thought having a wiki for myself (and others) would be better.
 * Ported several applications to FreeBSD port collection: games/quake3, deskutils/kchm, net/tspc2 (now obsolete)
 

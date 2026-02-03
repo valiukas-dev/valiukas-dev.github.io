@@ -55,7 +55,6 @@ entries:
       - title: Fervor, a simple multiplatform (Qt-based) application updater inspired by Sparkle
         url: https://github.com/pypt/fervor
       - title: OpenDict, a free English-Lithuanian-English dictionary for macOS
-        url: opendict-macos
       - title: LaTeX template for VU KF students
         url: https://github.com/pypt/VU-KF-LaTeX-template
       - title: GSoC 2012 - Media Cloud multi language support
@@ -83,7 +82,5 @@ entries:
             url: https://www.freshports.org/net/tspc2/
       - title: Protas - įvairi teorija ir kita medžiaga egzaminams
         url: https://protas.pypt.lt/
-      - title: debian meet'o skriptas
-        url: https://stuff.pypt.lt/debian_mytas.php.gz
       - title: Gyvenimo prasmė
         url: gyvenimo-prasme

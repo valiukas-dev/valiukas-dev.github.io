@@ -46,14 +46,6 @@ title: Lietuvių kalbos žodynas (LKŽ)
 ![LKŽ, veikiantis „Linux“](/images/lkz/lkz-linux-knisti.png)
 
 
-## Daugiau informacijos
-
-Išbandykite [žodyno žinyną](http://stuff.pypt.lt/lkz-help/). Rekomenduoju pradėti nuo [pratarmės](http://stuff.pypt.lt/lkz-help/pratarme.html). 
-
-
-Man pačiam labiausiai patinka [specialioji paieška](http://stuff.pypt.lt/lkz-help/programa.html#specialioji-paieska), [lietuviškų rašmenų įvedimas](http://stuff.pypt.lt/lkz-help/lietuvisku-rasmenu-ivedimas.html) ir [automatinis atnaujinimas internetu](http://stuff.pypt.lt/lkz-help/automatinis-atnaujinimas-internetu.html).
-
-
 ## Reikalavimai
 
 Programa veikia Windows XP SP3, Mac OS X 10.6 Snow Leopard, Linux bei naujesnėse operacinėse sistemose. Kad programa veiktų macOS operacinėje sistemoje, būtinas 64 bitų procesorius.
