@@ -6,7 +6,7 @@ entries:
     entries:
       - title: "<a href='mailto:linas@valiukas.dev'>linas@valiukas.dev</a>"
       - title: Resume / CV
-        url: resume-cv
+        url: /resume-linas-valiukas.pdf
       - title: GitHub
         url: https://github.com/pypt
       - title: LinkedIn
@@ -41,24 +41,15 @@ entries:
       - title: Automattic
         url: https://automattic.com/
       - title: Media Cloud
-        url: https://mediacloud.org/
-      - title:  Lietuviška „iOS“ klaviatūra „Alt+Shift“
-        url: https://itunes.apple.com/app/apple-store/id993465092?pt=241952&ct=pypt.lt-link&mt=8
-      - title: Anglonas
-        entries:
-          - title: iOS
-            url: https://itunes.apple.com/lt/app/anglonas-english-lithuanian/id381153256?mt=8
-          - title: macOS
-            url: https://itunes.apple.com/lt/app/anglonas/id411857989?mt=12
-          - title: Android
-            url: https://play.google.com/store/apps/details?id=lt.fotonija.android.anglonas
-      - title: shaibos - individualios veiklos mokesčių skaičiuoklė kompiuterastams
-        url: https://github.com/pypt/shaibos
-      - title: .lt corpus - Lithuanian language corpus (lietuvių kalbos tekstynas)
-        url: https://corpus.pypt.lt/
+        url: https://www.mediacloud.org/
 
   - title: "<strong>deep past:</strong>"
     entries:
+      - title:  Lietuviška „iOS“ klaviatūra „Alt+Shift“
+        url: https://itunes.apple.com/app/apple-store/id993465092?pt=241952&ct=pypt.lt-link&mt=8
+      - title: Anglonas for iOS, macOS, Android
+      - title: shaibos - individualios veiklos mokesčių skaičiuoklė kompiuterastams
+        url: https://github.com/pypt/shaibos
       - title: Lietuvių kalbos žodynas (LKŽ)
         url: lkz
       - title: Fervor, a simple multiplatform (Qt-based) application updater inspired by Sparkle
